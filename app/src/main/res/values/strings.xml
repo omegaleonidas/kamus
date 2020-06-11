@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">KamusFinal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Kamus</string>
+
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search"> search</string>
+    <string name="loading">kamus</string>
+
+
+    <string name="app_first_run">first_run</string>
+    <string name="kata">kata</string>
+    <string name="nav_header_subtitle" />
+    <string name="title_activity_main2">KAMUS</string>
+    <string name="eng_ina">inggris - Indoniesa</string>
+    <string name="ina_eng">Indonesia - inggris  </string>
+    <string name="selengkapnya">detail</string>
+    <string name="inggris">inggris</string>
+    <string name="indonesia">indonesia</string>
+    <string name="keteranga">change laguage</string>
+</resources>
